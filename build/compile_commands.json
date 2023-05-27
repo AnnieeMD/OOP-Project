@@ -1,0 +1,122 @@
+[
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\FinalProject.dir\\main.cpp.obj -c D:\\Project\\main.cpp",
+  "file": "D:/Project/main.cpp",
+  "output": "CMakeFiles/FinalProject.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\FinalProject.dir\\Commands.cpp.obj -c D:\\Project\\Commands.cpp",
+  "file": "D:/Project/Commands.cpp",
+  "output": "CMakeFiles/FinalProject.dir/Commands.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\FinalProject.dir\\XMLElement.cpp.obj -c D:\\Project\\XMLElement.cpp",
+  "file": "D:/Project/XMLElement.cpp",
+  "output": "CMakeFiles/FinalProject.dir/XMLElement.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\FinalProject.dir\\XMLGeneratorT.cpp.obj -c D:\\Project\\XMLGeneratorT.cpp",
+  "file": "D:/Project/XMLGeneratorT.cpp",
+  "output": "CMakeFiles/FinalProject.dir/XMLGeneratorT.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\FinalProject.dir\\XMLParser.cpp.obj -c D:\\Project\\XMLParser.cpp",
+  "file": "D:/Project/XMLParser.cpp",
+  "output": "CMakeFiles/FinalProject.dir/XMLParser.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\FinalProject.dir\\XMLPath.cpp.obj -c D:\\Project\\XMLPath.cpp",
+  "file": "D:/Project/XMLPath.cpp",
+  "output": "CMakeFiles/FinalProject.dir/XMLPath.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\FinalProject.dir\\XMLTree.cpp.obj -c D:\\Project\\XMLTree.cpp",
+  "file": "D:/Project/XMLTree.cpp",
+  "output": "CMakeFiles/FinalProject.dir/XMLTree.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\FinalProject.dir\\Runner.cpp.obj -c D:\\Project\\Runner.cpp",
+  "file": "D:/Project/Runner.cpp",
+  "output": "CMakeFiles/FinalProject.dir/Runner.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Tests.dir\\Commands.cpp.obj -c D:\\Project\\Commands.cpp",
+  "file": "D:/Project/Commands.cpp",
+  "output": "CMakeFiles/Tests.dir/Commands.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Tests.dir\\XMLElement.cpp.obj -c D:\\Project\\XMLElement.cpp",
+  "file": "D:/Project/XMLElement.cpp",
+  "output": "CMakeFiles/Tests.dir/XMLElement.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Tests.dir\\XMLGeneratorT.cpp.obj -c D:\\Project\\XMLGeneratorT.cpp",
+  "file": "D:/Project/XMLGeneratorT.cpp",
+  "output": "CMakeFiles/Tests.dir/XMLGeneratorT.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Tests.dir\\XMLParser.cpp.obj -c D:\\Project\\XMLParser.cpp",
+  "file": "D:/Project/XMLParser.cpp",
+  "output": "CMakeFiles/Tests.dir/XMLParser.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Tests.dir\\XMLPath.cpp.obj -c D:\\Project\\XMLPath.cpp",
+  "file": "D:/Project/XMLPath.cpp",
+  "output": "CMakeFiles/Tests.dir/XMLPath.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Tests.dir\\XMLTree.cpp.obj -c D:\\Project\\XMLTree.cpp",
+  "file": "D:/Project/XMLTree.cpp",
+  "output": "CMakeFiles/Tests.dir/XMLTree.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Tests.dir\\testsForGenerator.cpp.obj -c D:\\Project\\testsForGenerator.cpp",
+  "file": "D:/Project/testsForGenerator.cpp",
+  "output": "CMakeFiles/Tests.dir/testsForGenerator.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Tests.dir\\testsForParser.cpp.obj -c D:\\Project\\testsForParser.cpp",
+  "file": "D:/Project/testsForParser.cpp",
+  "output": "CMakeFiles/Tests.dir/testsForParser.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Tests.dir\\testsForPath.cpp.obj -c D:\\Project\\testsForPath.cpp",
+  "file": "D:/Project/testsForPath.cpp",
+  "output": "CMakeFiles/Tests.dir/testsForPath.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Tests.dir\\testsForTree.cpp.obj -c D:\\Project\\testsForTree.cpp",
+  "file": "D:/Project/testsForTree.cpp",
+  "output": "CMakeFiles/Tests.dir/testsForTree.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Tests.dir\\testsForCommands.cpp.obj -c D:\\Project\\testsForCommands.cpp",
+  "file": "D:/Project/testsForCommands.cpp",
+  "output": "CMakeFiles/Tests.dir/testsForCommands.cpp.obj"
+},
+{
+  "directory": "D:/Project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Tests.dir\\testsForElement.cpp.obj -c D:\\Project\\testsForElement.cpp",
+  "file": "D:/Project/testsForElement.cpp",
+  "output": "CMakeFiles/Tests.dir/testsForElement.cpp.obj"
+}
+]

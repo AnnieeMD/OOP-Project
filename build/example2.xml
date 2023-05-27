@@ -1,0 +1,21 @@
+<people id="1">
+    <person id="1" nationality="american">
+        <name id="2">John Smith</name>
+        <job id="5">Programmer</job>
+        <address id="3">USA</address>
+        <address id="10">Varna,Bulgaria</address>
+    </person>
+    <person id="1" nationality="bulgarian" vegan="true">
+        <name id="4">Ivan Petrov</name>
+        <job id="5">Doctor</job>
+        <address id="6">Varna,Bulgaria</address>
+        <address id="11">Manhattan,NY</address>
+        <address id="15">Brooklyn,NY</address>
+    </person>
+    <person id="7" nationality="australian">
+        <name id="8">Emily Johnson</name>
+        <job id="9">Engineer</job>
+        <address>Varna,Bulgaria</address>
+        <address>Melbourne,Australia</address>
+    </person>
+</people>

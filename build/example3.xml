@@ -1,0 +1,17 @@
+<zoo>
+  <animal id="1" species="lion">
+    <name id="1">Simba</name>
+    <age>5</age>
+    <habitat>Africa</habitat>
+  </animal>
+  <animal id="2" species="elephant">
+    <name>Dumbo</name>
+    <age>10</age>
+    <habitat id="1">Asia</habitat>
+  </animal>
+  <animal id="3" species="penguin">
+    <name>Charlie</name>
+    <age>2</age>
+    <habitat>Antarctica</habitat>
+  </animal>
+</zoo>
