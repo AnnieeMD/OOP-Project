@@ -1,0 +1,27 @@
+var files_dup =
+[
+    [ "build", "dir_4fef79e7177ba769987a8da36c892c5f.html", "dir_4fef79e7177ba769987a8da36c892c5f" ],
+    [ "attributes.hpp", "attributes_8hpp.html", "attributes_8hpp" ],
+    [ "Commands.cpp", "_commands_8cpp.html", null ],
+    [ "Commands.hpp", "_commands_8hpp.html", "_commands_8hpp" ],
+    [ "main.cpp", "main_8cpp.html", "main_8cpp" ],
+    [ "Runner.cpp", "_runner_8cpp.html", null ],
+    [ "Runner.hpp", "_runner_8hpp.html", "_runner_8hpp" ],
+    [ "tag.hpp", "tag_8hpp.html", "tag_8hpp" ],
+    [ "testsForCommands.cpp", "tests_for_commands_8cpp.html", "tests_for_commands_8cpp" ],
+    [ "testsForElement.cpp", "tests_for_element_8cpp.html", "tests_for_element_8cpp" ],
+    [ "testsForGenerator.cpp", "tests_for_generator_8cpp.html", "tests_for_generator_8cpp" ],
+    [ "testsForParser.cpp", "tests_for_parser_8cpp.html", "tests_for_parser_8cpp" ],
+    [ "testsForPath.cpp", "tests_for_path_8cpp.html", "tests_for_path_8cpp" ],
+    [ "testsForTree.cpp", "tests_for_tree_8cpp.html", "tests_for_tree_8cpp" ],
+    [ "XMLElement.cpp", "_x_m_l_element_8cpp.html", null ],
+    [ "XMLElement.hpp", "_x_m_l_element_8hpp.html", "_x_m_l_element_8hpp" ],
+    [ "XMLGeneratorT.cpp", "_x_m_l_generator_t_8cpp.html", null ],
+    [ "XMLGeneratorT.hpp", "_x_m_l_generator_t_8hpp.html", "_x_m_l_generator_t_8hpp" ],
+    [ "XMLParser.cpp", "_x_m_l_parser_8cpp.html", null ],
+    [ "XMLParser.hpp", "_x_m_l_parser_8hpp.html", "_x_m_l_parser_8hpp" ],
+    [ "XMLPath.cpp", "_x_m_l_path_8cpp.html", null ],
+    [ "XMLPath.hpp", "_x_m_l_path_8hpp.html", "_x_m_l_path_8hpp" ],
+    [ "XMLTree.cpp", "_x_m_l_tree_8cpp.html", "_x_m_l_tree_8cpp" ],
+    [ "XMLTree.hpp", "_x_m_l_tree_8hpp.html", "_x_m_l_tree_8hpp" ]
+];
