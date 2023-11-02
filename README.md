@@ -1,6 +1,6 @@
 # OOP-Project: XML Parser
-Това е проектът ми по Обектно-ориентирано програмиране, специалност- Компютърни науки, I-ви курс във ФМИ към СУ, гр.София. 
+This is my project for Object Oriented Programming course at the Faculty of Mathematics and Informatics at Sofia University 'St.Kliment Ohridski'.
 
-Целта на проекта е да се създаде програма, която създава подходящо дървовидно представяне на данните в паметта.
+ The goal of the project is to create a program that creates a suitable tree representation of data in memory.
 
-XML файлът може да се обработва с основни операции като open, clоse, save, save as, set, newChild и др. и се изпълняват прости XPATH 2.0 заявки.
+ The XML file can be processed with basic operations such as open, close, save, save as, set, newChild, etc.  simple XPATH 2.0 queries are also supported.
